@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleSprite", "ScaleSprite\ScaleSprite.csproj", "{297E4D08-4403-4BB3-A6B5-6F13D0866627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297E4D08-4403-4BB3-A6B5-6F13D0866627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297E4D08-4403-4BB3-A6B5-6F13D0866627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297E4D08-4403-4BB3-A6B5-6F13D0866627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297E4D08-4403-4BB3-A6B5-6F13D0866627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C55397-68DD-4385-92BA-784681E4FFDA}
+	EndGlobalSection
+EndGlobal
